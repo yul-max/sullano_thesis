@@ -1,8 +1,3 @@
-# Folders
-OpenNI/
-SensorKinect/
-libfreenect/
-
 # Prerequisites
 *.d
 
